@@ -555,7 +555,7 @@ img {
     position: absolute;
     right: 25px;
   }
-  /* This "expanded" class is added to get "x" when toggled instead of "+" sign. I bring it from our "Responsive Code jQuery" project*/
+  /* This "expanded" class is added to get "x" sign when toggled instead of "+" sign in footer section. I bring it from our "Responsive Code jQuery" project*/
   .footer-links-wrapper h3.expanded:after {
     font-family: "FontAwesome";
     content: "\f00d";
